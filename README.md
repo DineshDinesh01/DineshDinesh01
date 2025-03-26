@@ -15,7 +15,7 @@ I'm an **AI & ML Engineer** passionate about **Machine Learning, NLP, and Automa
 
 ## 🛠️ Tech Stack  
 
-🔹 **Languages & Frameworks:** Python | Java | FastAPI | Django | Bash | React  
+🔹 **Languages & Frameworks:** Python | Java | FastAPI | Flask | Bash | React  
 🔹 **AI & ML:** PyTorch | TensorFlow | ONNX | Hugging Face | Deep Java Library (DJL) | Spark ML  
 🔹 **RAG & Vector Databases:** LlamaIndex | LangChain  
 🔹 **Databases & Storage:** PostgreSQL | SQLAlchemy | Firebase | Redis  
